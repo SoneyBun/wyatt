@@ -1,9 +1,6 @@
 <!-- Disclaimer -->
->[!NOTE]
->wy@ is still in early developmental stages.
-
 >[!TIP]
->Utilize the same dataset wy@ was trained on.
+>wy@ uses a variety of datasets. Make sure to upload the data appropriately.
 
 <!-- Divider -->
 ---
