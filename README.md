@@ -1,7 +1,3 @@
-<!-- Disclaimer -->
->[!NOTE]
->wy@ uses a variety of datasets. Make sure to upload the data appropriately.
-
 <!-- Divider -->
 ---
 
