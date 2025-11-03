@@ -2,6 +2,9 @@
 >[!NOTE]
 >wy@ uses a variety of datasets. Make sure to upload the data appropriately.
 
+>[!CAUTION]
+>Do not include the Datasets folder when uploading the files. Instead, upload each file individually.
+
 <!-- Divider -->
 ---
 
