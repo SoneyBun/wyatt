@@ -3,7 +3,7 @@
 
 <!-- Header -->
 <div align="center">
-  <img width="2000" height="500" alt="WyattBanner" src="https://github.com/user-attachments/assets/70b5204b-c322-4fc0-af4b-5ca2fd74edf7" />
+  <img width="2000" height="500" alt="WyattAIBanner" src="https://github.com/user-attachments/assets/d79f46c8-7864-497b-9422-6386fb300ab9" />
   <h3>House Pricing AI Model</h3>
 </div>
 
