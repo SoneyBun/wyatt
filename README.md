@@ -12,6 +12,6 @@
 
 <!-- Links -->
 <div align="center">
-  <a href="./Datasets" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Datasets-wyatt?style=for-the-badge&logo=github&logoColor=%23ffffff&color=%2300b7ff"></a>
-  <a href="./wyatt.ipynb" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/wyatt.ipynb-wyatt?style=for-the-badge&logo=google%20colab&logoColor=%23ffffff&color=%2300b7ff"></a>
+  <a href="./Datasets" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Datasets-wyatt?style=for-the-badge&logo=github&logoColor=%2300b7ff&color=%23ffffff"></a>
+  <a href="./wyatt.ipynb" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/wyatt.ipynb-wyatt?style=for-the-badge&logo=google%20colab&logoColor=%2300b7ff&color=%23ffffff"></a>
 </div>
