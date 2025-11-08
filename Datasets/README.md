@@ -1,8 +1,8 @@
 <!-- Disclaimer -->
 >[!NOTE]
->wy@ uses a variety of datasets. Make sure to upload the data appropriately.
+>Wyatt uses a variety of datasets. Make sure to upload the data appropriately.
 
->[!CAUTION]
+>[!NOTE]
 >Do not include the Datasets folder when uploading the files. Instead, upload each file individually.
 
 <!-- Divider -->
@@ -10,7 +10,7 @@
 
 <!-- Header -->
 <div align="center">
-  <img width="1600" height="320" alt="wyattBanner" src="https://github.com/user-attachments/assets/736e122a-87e6-47c4-9e4c-6dd26617a1a5" />
+  <img width="2000" height="500" alt="WyattBanner" src="https://github.com/user-attachments/assets/75b5c108-1ad8-4f63-9b72-6087bbc43c17" />
   <h3>Datasets</h3>
 </div>
 
@@ -19,6 +19,6 @@
 
 <!-- Links -->
 <div align="center">
-  <a href="https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/AmesHousing.csv-wyatt?style=for-the-badge&logo=kaggle&logoColor=%23ffffff&color=%23304532"></a>
-  <a href="./Virginia_Housing.csv" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Virginia_Housing.csv-wyatt?style=for-the-badge&logo=github&logoColor=%23ffffff&color=%23304532"></a>
+  <a href="https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/AmesHousing.csv-wyatt?style=for-the-badge&logo=kaggle&logoColor=%23ffffff&color=%2300b7ff"></a>
+  <a href="./Virginia_Housing.csv" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Virginia_Housing.csv-wyatt?style=for-the-badge&logo=github&logoColor=%23ffffff&color=%2300b7ff"></a>
 </div>
